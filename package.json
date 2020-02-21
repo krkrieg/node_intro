@@ -1,0 +1,22 @@
+{
+  "name": "node_intro",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "krkrieg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "http-status": "^1.4.2",
+    "mocha": "7.0.1",
+    "mongoose": "5.9.1"
+  },
+  "devDependencies": {
+    "async": "^3.1.1",
+    "chai": "^4.2.0",
+    "superagent": "^5.2.1"
+  }
+}
